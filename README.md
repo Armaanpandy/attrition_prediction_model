@@ -4,6 +4,7 @@
 This project aims to analyze employee attrition within an organization and develop predictive models to identify factors contributing to employee turnover. By leveraging machine learning techniques, we seek to gain insights into the underlying causes of attrition and provide recommendations to mitigate its impact on organizational performance.
 
 [ML Model Notebook](https://github.com/Armaanpandy/attrition_prediction_model/blob/main/attrition_predictor.ipynb)
+
 *Note*: Dont run the model training section if you just want to look at results directly run the validation set sectiom
 
 [Executive Summary](https://github.com/Armaanpandy/attrition_prediction_model/blob/main/Attrition%20Rate%20Model%20Executive%20Summary.pdf)
