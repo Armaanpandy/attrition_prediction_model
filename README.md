@@ -1,5 +1,7 @@
 # [Attrition Prediction Model](https://github.com/Armaanpandy/attrition_prediction_model/tree/main)
 
+[Dataset Source](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction)
+
 **Overview of the Project:**
 This project aims to analyze employee attrition within an organization and develop predictive models to identify factors contributing to employee turnover. By leveraging machine learning techniques, we seek to gain insights into the underlying causes of attrition and provide recommendations to mitigate its impact on organizational performance.
 
